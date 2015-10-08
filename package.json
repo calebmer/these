@@ -1,0 +1,23 @@
+{
+  "name": "these",
+  "version": "1.0.0",
+  "description": "Multiple inheritance in JavaScript",
+  "author": "Caleb Meredith <calebmeredith8@gmail.com> (http://calebmer.github.io)",
+  "license": "MIT",
+  "keywords": [
+    "inheritance",
+    "multiple",
+    "these",
+    "class",
+    "es7"
+  ],
+  "main": "lib/index.js",
+  "files": ["lib"],
+  "scripts": {
+    "test": "bin/build.sh && bin/test.sh"
+  },
+  "devDependencies": {
+    "babel": "^5.8.21",
+    "mocha": "^2.2.5"
+  }
+}
