@@ -17,7 +17,7 @@
     "test": "bin/build.sh && bin/test.sh"
   },
   "devDependencies": {
-    "babel": "^5.8.21",
-    "mocha": "^2.2.5"
+    "babel": "^6.5.2",
+    "mocha": "^3.2.0"
   }
 }
