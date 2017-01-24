@@ -1,4 +1,6 @@
 # these
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/calebmer/these.svg)](https://greenkeeper.io/)
 A fun experiment on multiple inheritance in JavaScript.
 
 I will be writing a blog post soon on how to use this, for now salivate on the following:
